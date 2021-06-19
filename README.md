@@ -1,0 +1,2 @@
+# Entities-extraction-from-dataset-using-NLP
+This is the NLP datascience project in which I have to find the person names, organization names and nouns from the dataset that I have to given in the ".sql" extension. 
